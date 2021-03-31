@@ -6,14 +6,14 @@ In this Repository:
 
 ➊  README            🢂 you are reading this file
 
-➋  Pseudocode        🢂 a straighfoward and 'text-based" algorithmich design for the Perceptron model
+➋  Pseudocode       🢂 a straighfoward and 'text-based" algorithmich design for the Perceptron model
 
-➌  Training Data     🢂 contains the data-set used in the training-stage of the algorithm 
+➌  TrainingData     🢂 contains the data-set used in the training-stage of the algorithm 
 
 ➍  Testing Data      🢂 contains the data-set used in the training-stage of the algorithm 
 
 
-➎  Implementation.py 🢂 this is the Python Script for the implementation of the Binary Perceptron: 
+➎  Perceptron 🢂 this is the Python Script for the implementation of the Binary Perceptron: 
 
                                  Training phase :    ...
        FIND      🢂                      
