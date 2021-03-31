@@ -42,7 +42,15 @@ The Classification Rationale      🡲     If this score is greater than or equa
                                          If this score is greater than or equal to the fix threshold value the algorithm returns 'FALSE' or '0' 
 
 
-                                                           
+ # The Algorithm Dinamics 
+
+⚪ The model will repeat an epoch until the perceptron has reached the number of epochs available or it has learned the task.
+
+⚪ Within each epoch the algorithm is programmed to iterate through the whole data set. 
+
+⚪ within each iteration the algorithm looks for the *value-error* between the value given by its activation function and the desired output.
+
+⚪ At such point, the if this value-error is different from *0* If error is different from zero then the Algorithm will adjust its weight again.                                           
 
 
                                          The Classification process
